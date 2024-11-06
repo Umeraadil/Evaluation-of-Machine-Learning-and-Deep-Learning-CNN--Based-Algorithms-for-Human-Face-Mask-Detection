@@ -52,8 +52,29 @@ LDA
 AdaBoost
 
 Random Forest!
-#GLCM ACCUARCY
+
+# GLCM ACCUARCY
 ![image](https://github.com/user-attachments/assets/737b1785-77d4-4487-9b3f-75115cddfbc9)
+
+# BP ACCUARCY
+
+![image](https://github.com/user-attachments/assets/dd299106-41a9-4be8-b75f-0ff08a50fcdf)
+
+# Convolution Neural Network (CNN)
+CNN consists of one or more convolution layers. CNN aims to find features that are effective inside an image rather than working with an entire image.
+
+In this proposed work , we have applied deep CNN with 3 convolution layers.
+
+We use to pooling operations in our CNN model i.e.
+1:-MAX POOLING
+2:-AVERAGE POOLING
+
+# CNN ACCUARCY
+
+![image](https://github.com/user-attachments/assets/f08ed72b-c701-4349-9798-1f3c4d4b2fae)
+
+
+
 
 
 
