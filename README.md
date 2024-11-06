@@ -9,8 +9,8 @@ In this work we evaluate the different machine learning and deep learning based 
 We conducted all our experiments on five datasets. Among five datasets four are colored image datasets and one is grey image dataset.
 
 The Machine learning Algorithms achieved 94% accuracy and Deep learning (CNN) Algorithms achieved 98% accuracy.
-                            Machine Learning Based
-![image](https://github.com/user-attachments/assets/7e8d06eb-b3e8-4034-90f6-9635bc450631)
+                           # Methodology
+# Machine Learning Base
 
 ![image](https://github.com/user-attachments/assets/2b92da76-93e7-4e6f-bf31-0d95159a8b67)
 
