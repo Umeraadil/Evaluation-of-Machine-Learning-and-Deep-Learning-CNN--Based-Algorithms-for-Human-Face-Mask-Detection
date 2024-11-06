@@ -39,6 +39,20 @@ We use two feature extraction techniques i.e.
 	
        2) LBP (Local Binary Pattern).
 
+#  Binary Classifiers!
+
+SVM,
+
+Decision Tree 
+
+Logistic Regression
+
+LDA
+
+AdaBoost
+
+Random Forest!
+
 
 
 
