@@ -27,7 +27,18 @@ The Machine learning Algorithms achieved 94% accuracy and Deep learning (CNN) Al
 
 # PRE-PROCESSING
 
-In pre-processing the Region of Interest (RoI), which is lower portion of face comprising nose and mouth, is extracted from the human face image
+In pre-processing the Region of Interest (RoI), which is lower portion of face comprising nose and mouth, is extracted from the human face image.
+
+# Feature Extraction
+
+In this work we use two texture based feature extraction techniques for mask detection on human faces. 
+
+We use two feature extraction techniques i.e. 
+	
+      1) GLCM (Gray Level Co-occurrence Matrix)
+	
+       2) LBP (Local Binary Pattern).
+
 
 
 
