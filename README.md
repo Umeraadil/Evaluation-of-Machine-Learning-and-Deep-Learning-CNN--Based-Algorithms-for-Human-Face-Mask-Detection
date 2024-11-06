@@ -52,6 +52,9 @@ LDA
 AdaBoost
 
 Random Forest!
+#GLCM ACCUARCY
+![image](https://github.com/user-attachments/assets/737b1785-77d4-4487-9b3f-75115cddfbc9)
+
 
 
 
