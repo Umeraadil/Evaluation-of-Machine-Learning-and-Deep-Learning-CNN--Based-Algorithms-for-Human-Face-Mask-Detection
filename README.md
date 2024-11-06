@@ -14,6 +14,8 @@ The Machine learning Algorithms achieved 94% accuracy and Deep learning (CNN) Al
 ![image](https://github.com/user-attachments/assets/2b92da76-93e7-4e6f-bf31-0d95159a8b67)
 # 2:-Deep Learning Based
 ![image](https://github.com/user-attachments/assets/7bf4d29b-ce9f-49ec-bcb6-4d9c8f3ff4a2)
+# DATA SET
+1:-https://www.kaggle.com/datasets/muhammadahsan026/facemask-dataset-covid1910k-images-2-folders
 
 
 
