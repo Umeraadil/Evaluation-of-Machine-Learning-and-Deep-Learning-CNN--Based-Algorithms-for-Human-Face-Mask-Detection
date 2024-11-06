@@ -74,7 +74,7 @@ We use to pooling operations in our CNN model i.e.
 # CNN ACCUARCY
 ![image](https://github.com/user-attachments/assets/49bd6302-fa4d-4bd5-9c5c-a6ceef986646)
 
-#REFERENCES
+# REFERENCES
 
 Z. Yan, “Unprecedented pandemic, unprecedented shift, and unprecedented opportunity,” Hum. Behav. Emerg. Technol., vol. 2, no. 2, pp. 110–112, 2020, doi: 10.1002/hbe2.192.
 
