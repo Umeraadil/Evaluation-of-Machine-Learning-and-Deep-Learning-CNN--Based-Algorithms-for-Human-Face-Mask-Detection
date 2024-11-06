@@ -17,8 +17,7 @@ To identify and review the state-of-the-art deep learning and machine learning m
 To implement different Machine learning and deep learning techniques and computer intelligence to extract powerful features from images to construct a classifier that detects unmasked personnel with high accuracy. 
 
  To determine and discuss prediction accuracy and limitations of Machine learning and Deep learning(CNN) models applied to detect face masks. 
+![image](https://github.com/user-attachments/assets/2b92da76-93e7-4e6f-bf31-0d95159a8b67)
 
-We also compare and evaluate deep learning techniques with Machine Learning techniques to decide the outperformance of one technique over another for higher accuracy results.
-![image](https://github.com/user-attachments/assets/92727e25-1215-4ca3-855e-4458bddaf3e5)
 
 
