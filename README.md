@@ -16,6 +16,13 @@ The Machine learning Algorithms achieved 94% accuracy and Deep learning (CNN) Al
 ![image](https://github.com/user-attachments/assets/7bf4d29b-ce9f-49ec-bcb6-4d9c8f3ff4a2)
 # DATA SET
 1:-https://www.kaggle.com/datasets/muhammadahsan026/facemask-dataset-covid1910k-images-2-folders
+2:-Facemask_Detection/dataset at master · techyhoney/Facemask_Detection · GitHub
+3:-https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+4:-https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-detection-dataset
+5:-https://www.kaggle.com/datasets/luka77/facemask-detection-dataset-20000-images
+
+
+
 
 
 
