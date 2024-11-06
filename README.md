@@ -66,12 +66,13 @@ CNN consists of one or more convolution layers. CNN aims to find features that a
 In this proposed work , we have applied deep CNN with 3 convolution layers.
 
 We use to pooling operations in our CNN model i.e.
+
 1:-MAX POOLING
+
 2:-AVERAGE POOLING
 
 # CNN ACCUARCY
-
-![image](https://github.com/user-attachments/assets/f08ed72b-c701-4349-9798-1f3c4d4b2fae)
+![image](https://github.com/user-attachments/assets/49bd6302-fa4d-4bd5-9c5c-a6ceef986646)
 
 
 
