@@ -13,7 +13,8 @@ The Machine learning Algorithms achieved 94% accuracy and Deep learning (CNN) Al
 # 1:-Machine Learning Base
 ![image](https://github.com/user-attachments/assets/2b92da76-93e7-4e6f-bf31-0d95159a8b67)
 # 2:-Deep Learning Based
-![image](https://github.com/user-attachments/assets/3e5e51d0-c20c-4370-89bc-5dbb88b91216)
+![image](https://github.com/user-attachments/assets/7bf4d29b-ce9f-49ec-bcb6-4d9c8f3ff4a2)
+
 
 
 
