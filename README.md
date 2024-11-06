@@ -25,6 +25,10 @@ The Machine learning Algorithms achieved 94% accuracy and Deep learning (CNN) Al
 
 5:-https://www.kaggle.com/datasets/luka77/facemask-detection-dataset-20000-images
 
+# PRE-PROCESSING
+
+In pre-processing the Region of Interest (RoI), which is lower portion of face comprising nose and mouth, is extracted from the human face image
+
 
 
 
