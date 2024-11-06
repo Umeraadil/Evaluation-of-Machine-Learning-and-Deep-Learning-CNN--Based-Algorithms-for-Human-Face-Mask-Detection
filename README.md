@@ -74,6 +74,20 @@ We use to pooling operations in our CNN model i.e.
 # CNN ACCUARCY
 ![image](https://github.com/user-attachments/assets/49bd6302-fa4d-4bd5-9c5c-a6ceef986646)
 
+#REFERENCES
+
+Z. Yan, “Unprecedented pandemic, unprecedented shift, and unprecedented opportunity,” Hum. Behav. Emerg. Technol., vol. 2, no. 2, pp. 110–112, 2020, doi: 10.1002/hbe2.192.
+
+S. V. Militante and N. V. Dionisio, “real-time facemask recognition with alarm system using deep learning,” 2020 11th IEEE control syst. Grad. Res. Colloquium, ICSGRC 2020 - proc., No. August, pp. 106–110, 2020, doi: 10.1109/icsgrc49013.2020.9232610.
+
+V. Vinitha and V. Velantina, “Covid-19 Facemask Detection With Deep Learning and Computer Vision,” Int. Res. J. Eng. Technol., vol. 07, no. 08, pp. 3127–3132, 2020, [Online]. Available: www.irjet.net
+
+M. Sandler, A. Howard, M. Zhu, and A. Zhmoginov, “MobileNetV2: Inverted residuals and linear bottleneck,” pp. 4510–4520, 2018.
+
+X. Liu and S. Zhang, “COVID-19: Face masks and human-to-human transmission,” Influenza Other Respi. Viruses, vol. 14, no. 4, pp. 472–473, 2020, doi: 10.1111/irv.12740.
+
+
+
 
 
 
