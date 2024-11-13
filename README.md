@@ -56,7 +56,7 @@ Random Forest!
 # GLCM ACCUARCY
 ![image](https://github.com/user-attachments/assets/737b1785-77d4-4487-9b3f-75115cddfbc9)
 
-# BP ACCUARCY
+# LBP ACCUARCY
 
 ![image](https://github.com/user-attachments/assets/dd299106-41a9-4be8-b75f-0ff08a50fcdf)
 
